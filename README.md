@@ -50,7 +50,7 @@ that can be readily followed by a broder scientific community.
 - Bivariate spatial point patterns in the retina: a reproducible review<br>
   Eglen SJ,. **2016** <br>
   **DOI:** None.  [Paper](http://journal-sfds.fr/index.php/J-SFdS/article/view/518/490)<br>
-  **Repository:** https://github.com/sje/eglen2015
+  **Repository:** https://github.com/sje30/eglen2015
 
 - Deeply sequenced metagenome and metatranscriptome of a biogas-producing microbial community from an agricultural production-scale   biogas plant <br>
   Andreas Bremges, Irena Maus, Peter Belmann, Felix Eikmeyer, Anika Winkler, Andreas Albersmeier, Alfred Pühler, Andreas Schlüter and Alexander Sczyrba <br>
