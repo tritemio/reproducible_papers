@@ -53,6 +53,6 @@ that can be readily followed by a broder scientific community.
   **Repository:** https://github.com/sje/eglen2015
 
 - Deeply sequenced metagenome and metatranscriptome of a biogas-producing microbial community from an agricultural production-scale   biogas plant <br>
-  Andreas BremgesEmail author, Irena Maus, Peter Belmann, Felix Eikmeyer, Anika Winkler, Andreas Albersmeier, Alfred Pühler, Andreas Schlüter and Alexander Sczyrba <br>
+  Andreas Bremges, Irena Maus, Peter Belmann, Felix Eikmeyer, Anika Winkler, Andreas Albersmeier, Alfred Pühler, Andreas Schlüter and Alexander Sczyrba <br>
   **DOI:** [10.1186/s13742-015-0073-6](http://dx.doi.org/10.1186/s13742-015-0073-6) <br>
   **Repository:** https://github.com/metagenomics/2015-biogas-cebitec
