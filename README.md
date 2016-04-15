@@ -12,7 +12,7 @@ code for scientific computing is a challenging task, and perfection
 is nearly impossible. However *imperfect reproducibility* is better
 than *no reproducibility*.
 
-Thanks to new emerging technologies and evolving best-practices,
+Thanks to the efforts of a few authors and new emerging technologies,
 a growing number of papers are more reproducible than 
 ever before.
 
