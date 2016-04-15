@@ -3,7 +3,7 @@
 This ~~is~~ will become a curated list of papers that are computationally reproducible 
 by modern standard. 
 
-> Please make a PR to add new papers to the list. Papers may be cathegorized for topic and technology.
+> Please make a PR to add new papers to the list. Papers may be cathegorized for topic and technology. See [here](https://github.com/tritemio/reproducible_papers/issues/2).
 
 ## Motivation
 
