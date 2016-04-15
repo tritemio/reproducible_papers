@@ -42,5 +42,12 @@ that can be readily followed by a broder scientific community.
   **Repository:** https://github.com/WagnerLabPapers/Waskom_CerebCortex_InPress
 
 
+- A data repository and analysis framework for spontaneous neural activity recordings in developing retina<br>
+  Eglen SJ, Weeks M, Jessop M, Simonotto J, Jackson T, Sernagor E. **2014** <br>
+  **DOI:** [10.1186/2047-217X-3-3](http://dx.doi.org/10.1186/2047-217X-3-3)) <br>
+  **Repository:** https://github.com/sje30/waverepo
 
-
+- Bivariate spatial point patterns in the retina: a reproducible review<br>
+  Eglen SJ,. **2016** <br>
+  **DOI:** None.  [Paper](http://journal-sfds.fr/index.php/J-SFdS/article/view/518/490)<br>
+  **Repository:** https://github.com/sje/eglen2015
